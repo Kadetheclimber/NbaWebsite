@@ -1,0 +1,19 @@
+{
+  "name": "nbawebsite",
+  "version": "1.0.0",
+  "description": "*Hello*",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kadetheclimber/NbaWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kadetheclimber/NbaWebsite/issues"
+  },
+  "homepage": "https://github.com/Kadetheclimber/NbaWebsite#readme"
+}
